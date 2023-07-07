@@ -2,7 +2,7 @@
 
 # Hello, I'm Pushpankar ~ @Pushpankar Singh<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 
-[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpushpankar2@gmail.com) &nbsp;[![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-sahu-88773123a/) &nbsp; [![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kpushpankar2/) &nbsp;
+[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpushpankar2@gmail.com) &nbsp;[![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpankarsingh/) &nbsp; [![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kpushpankar2/) &nbsp;
 
 Hello, I am **Pushpankar** a sophomore at **Indian Institute of Information Technology, Nagpur** pursing my bachelor's in **Computer Science Engineering**. I have a desire to solve real-world problems using technology. I intend to work on projects that involve **Python**, **Cloud** or **Web Development**.  Feel free to check out my GitHub repository to see some of the projects I have worked on.
 
