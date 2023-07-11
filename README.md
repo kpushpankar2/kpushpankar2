@@ -14,23 +14,34 @@ Hello, I am **Pushpankar** a sophomore at **Indian Institute of Information Tech
 - :mortar_board: Currently I am engaged in learning *Web Development and Python*
 - :pushpin: Fun fact: I love to code
 
-# :low_brightness:What I'm focusing on
+# 🐬 What I'm focusing on
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
+
+<hr>
+
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{kpushpankar2}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{kpushpankar2}/count.svg)  
+  
+</a>
+
+<hr>
                       
-# :low_brightness:GitHub Stats
+# 🐬 GitHub Stats
 
 <table>
     <tr style="border:none; background:none;">
-        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api?username=kpushpankar2&theme=tokyonight&show_icons=true" display=block width=100% height=auto alt="1" ></td>
-        <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kpushpankar2&theme=tokyonight" display=block width=100% height=auto alt="2" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api?username=kpushpankar2&theme=nightfallenigma&show_icons=true" display=block width=100% height=auto alt="1" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kpushpankar2&theme=nightfallenigma" display=block width=100% height=auto alt="2" ></td>
     </tr>
     <tr style="border:none; background:none;">
-        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpushpankar2&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpushpankar2&theme=nightfallenigma&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
       
-    </tr>
+  </tr>
 </table>
 
-# :low_brightness:Productivity Stats
+# 🐬 Productivity Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpushpankar2&theme=tokyonight" display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpushpankar2&theme=monokai" display=block width=100% height=auto  alt="1" >
