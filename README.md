@@ -24,7 +24,7 @@ Hello, I am **Pushpankar** a sophomore at **Indian Institute of Information Tech
         <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kpushpankar2&theme=lunareclipse" display=block width=100% height=auto alt="2" ></td>
     </tr>
     <tr style="border:none; background:none;">
-        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpushpankar2&theme=Lunar Eclipse&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpushpankar2&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
     </tr>
 </table>
 
