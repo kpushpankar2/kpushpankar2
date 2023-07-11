@@ -25,6 +25,7 @@ Hello, I am **Pushpankar** a sophomore at **Indian Institute of Information Tech
     </tr>
     <tr style="border:none; background:none;">
         <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpushpankar2&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
+      
     </tr>
 </table>
 
