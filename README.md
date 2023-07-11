@@ -8,15 +8,7 @@ Hello, I am **Pushpankar** a sophomore at **Indian Institute of Information Tech
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpushpankar2&theme=nightfallenigma&column=4&margin-w=15&margin-h=15" alt="PushpankarSingh" /></a></p>
 
-Crimson Shadows
-Obsidian Eclipse
-Gothic Velvet
-Nightfall Enigma
-Raven's Embrace
-Azure Twilight
-Scarlet Moonlight
-Abyssal Serenade
-Enchanted Dusk
+
 
 - :sparkles: Looking forward to work on my personality
 - :mortar_board: Currently I am engaged in learning *Web Development and Python*
